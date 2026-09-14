@@ -10,16 +10,16 @@ if not "%WINDOW_NAME%"=="" (
 
 timeout /t 3 /nobreak >nul
 
-if exist "Daydream.exe.tmp" (
-    del /f /q "Daydream.exe" >nul 2>&1
-    move /y "Daydream.exe.tmp" "Daydream.exe"
+if exist "aLogin.exe.tmp" (
+    del /f /q "aLogin.exe" >nul 2>&1
+    move /y "aLogin.exe.tmp" "aLogin.exe"
 )
 
-if exist "Daydream.pck.tmp" (
-    del /f /q "Daydream.pck" >nul 2>&1
-    move /y "Daydream.pck.tmp" "Daydream.pck"
+if exist "aLogin.pck.tmp" (
+    del /f /q "aLogin.pck" >nul 2>&1
+    move /y "aLogin.pck.tmp" "aLogin.pck"
 )
 
-start "" "%~dp0Daydream.exe"
+start "" "%~dp0aLogin.exe"
 
 exit
