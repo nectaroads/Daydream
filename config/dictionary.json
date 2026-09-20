@@ -1,0 +1,47 @@
+{
+	"sound_effects": {
+		"level-up": "wav0153.wav",
+		"level-up_2": "wav0152.wav",
+		"mail": "wav0155.wav",
+		"collect": "wav0152.wav",
+		"button": "wav0151.wav",
+		"warn": "wav0151nso.wav",
+		"announce": "wav0154nso.wav"
+	},
+	"images": {
+		"icons": {
+			"earth_show": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk10001s.bmp"
+			},
+			"earth_hide": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk10001s_g.bmp"
+			},
+			"water_show": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk11001s.bmp"
+			},
+			"water_hide": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk11001s_g.bmp"
+			},
+			"fire_show": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk12001s.bmp"
+			},
+			"fire_hide": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk12001s_g.bmp"
+			},
+			"wind_show": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk13001s.bmp"
+			},
+			"wind_hide": {
+				"file": "skills_0.bmg",
+				"target": "icon_sk13001s_g.bmp"
+			}
+		}
+	}		
+}

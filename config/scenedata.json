@@ -1,0 +1,5159 @@
+{
+  "10000": {
+    "name": "Residence",
+    "music": "BGM0011",
+    "control": 5
+  },
+  "10001": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 20
+  },
+  "10002": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10003": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10004": {
+    "name": "Player Prison",
+    "music": "BGM0011",
+    "control": 20
+  },
+  "10005": {
+    "name": "Test",
+    "music": "BGM0038",
+    "effect": 5
+  },
+  "10006": {
+    "name": "Test",
+    "music": "BGM0005"
+  },
+  "10007": {
+    "name": "Test",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "10008": {
+    "name": "Test",
+    "music": "BGM0028",
+    "effect": 2
+  },
+  "10009": {
+    "name": "Spiral Maze",
+    "music": "BGM0001",
+    "control": 87
+  },
+  "10011": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10012": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10013": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10014": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10015": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10016": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10017": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10018": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10019": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10020": {
+    "name": "Ship Deck",
+    "music": "BGM0007",
+    "control": 21
+  },
+  "10021": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10022": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10023": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10024": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10025": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10026": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10027": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10028": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10029": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10030": {
+    "name": "Cabin",
+    "music": "BGM0011",
+    "control": 21
+  },
+  "10031": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10032": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10033": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10034": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10035": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10036": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10037": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10038": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10039": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10040": {
+    "name": "Newbie Island",
+    "music": "BGM0024",
+    "control": 20
+  },
+  "10041": {
+    "name": "Challenge Round 1",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10042": {
+    "name": "Challenge Round 2",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10043": {
+    "name": "Challenge Round 3",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10044": {
+    "name": "Challenge Round 4",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10045": {
+    "name": "Challenge Round 5",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10046": {
+    "name": "Challenge Round 6",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10047": {
+    "name": "Challenge Round 7",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10048": {
+    "name": "Challenge Round 8",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10049": {
+    "name": "Challenge Round 11",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10050": {
+    "name": "Challenge Round 9",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10051": {
+    "name": "Challenge Round 10",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10052": {
+    "name": "Challenge Round 12",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10053": {
+    "name": "Tgs",
+    "music": "BGM0007",
+    "control": 39
+  },
+  "10054": {
+    "name": "Challenge Round 13",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10055": {
+    "name": "Challenge Round 14",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10056": {
+    "name": "Challenge Round 15",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10057": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10058": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10059": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10060": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10061": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10062": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10063": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10064": {
+    "name": "Round 1",
+    "music": "BGM0009",
+    "control": 32
+  },
+  "10065": {
+    "name": "Trojan Round 1",
+    "music": "BGM0031",
+    "control": 35
+  },
+  "10066": {
+    "name": "Trojan Round 2",
+    "music": "BGM0031",
+    "control": 35
+  },
+  "10067": {
+    "name": "Trojan Lobby",
+    "music": "BGM0031",
+    "control": 35
+  },
+  "10068": {
+    "name": "Trojan Round 3",
+    "music": "BGM0031",
+    "control": 35
+  },
+  "10069": {
+    "name": "Polo Island",
+    "music": "BGM0010"
+  },
+  "10070": {
+    "name": "Hezrou Island",
+    "music": "BGM0010"
+  },
+  "10071": {
+    "name": "Civillian's House",
+    "music": "BGM0010"
+  },
+  "10072": {
+    "name": "Survival Isle",
+    "music": "BGM0031",
+    "control": 102
+  },
+  "10073": {
+    "name": "Treasure Room 1",
+    "music": "BGM0005",
+    "control": 71
+  },
+  "10074": {
+    "name": "Treasure Room 2",
+    "music": "BGM0005",
+    "control": 71
+  },
+  "10075": {
+    "name": "Treasure Room 3",
+    "music": "BGM0005",
+    "control": 71
+  },
+  "10076": {
+    "name": "Treasure Room 4",
+    "music": "BGM0005",
+    "control": 71
+  },
+  "10077": {
+    "name": "Treasure Room 5",
+    "music": "BGM0005",
+    "control": 71
+  },
+  "10078": {
+    "name": "Treasure Room 6",
+    "music": "BGM0005",
+    "control": 71
+  },
+  "10079": {
+    "name": "Quiz Zone",
+    "music": "BGM0019",
+    "control": 71
+  },
+  "10080": {
+    "name": "Store",
+    "music": "BGM0011",
+    "control": 2
+  },
+  "10081": {
+    "name": "Cherry Grassplot",
+    "music": "BGM0025",
+    "effect": 1
+  },
+  "10082": {
+    "name": "Seabed",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "10083": {
+    "name": "Summer Beach",
+    "music": "BGM0024"
+  },
+  "10084": {
+    "name": "Happy House",
+    "music": "BGM0037"
+  },
+  "10085": {
+    "name": "Wedding Hall",
+    "music": "BGM0037",
+    "control": 71,
+    "effect": 7
+  },
+  "10086": {
+    "name": "Wedding Hall",
+    "music": "BGM0037",
+    "control": 71
+  },
+  "10087": {
+    "name": "Greek Labyrinth",
+    "music": "BGM0039"
+  },
+  "10088": {
+    "name": "Store",
+    "music": "BGM0011",
+    "control": 2
+  },
+  "10095": {
+    "name": "Quiz Zone",
+    "music": "BGM0019",
+    "control": 71
+  },
+  "10096": {
+    "name": "PVP Hall 1",
+    "music": "BGM0009",
+    "control": 103
+  },
+  "10097": {
+    "name": "PVP Arena",
+    "music": "BGM0009",
+    "control": 102
+  },
+  "10098": {
+    "name": "PVP Server",
+    "music": "BGM0009",
+    "control": 103
+  },
+  "10099": {
+    "name": "PVP Arena",
+    "music": "BGM0009",
+    "control": 102
+  },
+  "10100": {
+    "name": "PVP Arena",
+    "music": "BGM0009",
+    "control": 102
+  },
+  "10101": {
+    "name": "PVP Hall 2",
+    "music": "BGM0009",
+    "control": 103
+  },
+  "10102": {
+    "name": "PVP Hall 3",
+    "music": "BGM0009",
+    "control": 103
+  },
+  "10103": {
+    "name": "PVP Hall 4",
+    "music": "BGM0009",
+    "control": 103
+  },
+  "10104": {
+    "name": "Challenge Round 16",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10105": {
+    "name": "Challenge Round 17",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10106": {
+    "name": "Challenge Round 18",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10107": {
+    "name": "Challenge Round 19",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10108": {
+    "name": "Challenge Round 20",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10109": {
+    "name": "Challenge Round 21",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10110": {
+    "name": "Challenge Round 22",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10111": {
+    "name": "Challenge Round 23",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10112": {
+    "name": "Challenge Round 24",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10113": {
+    "name": "Challenge Round 25",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10114": {
+    "name": "Challenge Round 26",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10115": {
+    "name": "Challenge Round 27",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10116": {
+    "name": "Challenge Round 28",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10150": {
+    "name": "Dark Forces 1",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10151": {
+    "name": "Dark Forces 2",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10152": {
+    "name": "Dark Forces 3",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10153": {
+    "name": "Dark Forces 4",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10154": {
+    "name": "Dark Forces 5",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10155": {
+    "name": "Dark Forces 6",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10180": {
+    "name": "Bravery Test 1",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10181": {
+    "name": "Bravery Test 2",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10182": {
+    "name": "Bravery Test 3",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10183": {
+    "name": "Bravery Test 4",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10184": {
+    "name": "Bravery Test 5",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10185": {
+    "name": "Bravery Test 6",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10186": {
+    "name": "Bravery Test 7",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10187": {
+    "name": "Bravery Test 8",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10188": {
+    "name": "Bravery Test 9",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10189": {
+    "name": "Bravery Test 10",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10190": {
+    "name": "Bravery Test 11",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10191": {
+    "name": "Bravery Test 12",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10192": {
+    "name": "Bravery Test 13",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10193": {
+    "name": "Bravery Test 14",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10194": {
+    "name": "Bravery Test 15",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10195": {
+    "name": "Bravery Test 16",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10196": {
+    "name": "Bravery Test 17",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10197": {
+    "name": "Bravery Test 18",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10198": {
+    "name": "Bravery Test 19",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "10199": {
+    "name": "Bravery Test 20",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "11002": {
+    "name": "Ghost Ship Deck",
+    "music": "BGM0031"
+  },
+  "11003": {
+    "name": "Holy Village",
+    "music": "BGM0001"
+  },
+  "11004": {
+    "name": "Holy Village",
+    "music": "BGM0001"
+  },
+  "11005": {
+    "name": "Holy Village",
+    "music": "BGM0001"
+  },
+  "11006": {
+    "name": "Weaponry",
+    "music": "BGM0001"
+  },
+  "11007": {
+    "name": "Grocery",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11008": {
+    "name": "Fisherman's Home",
+    "music": "BGM0001"
+  },
+  "11009": {
+    "name": "1F, Village Leader's",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11010": {
+    "name": "2F, Village Leader's",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11011": {
+    "name": "Civillian's House",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11012": {
+    "name": "Civillian's House",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11013": {
+    "name": "1F, Inn",
+    "music": "BGM0001"
+  },
+  "11014": {
+    "name": "2F, Inn",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11015": {
+    "name": "Cathedral",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11016": {
+    "name": "Beach",
+    "music": "BGM0024"
+  },
+  "11017": {
+    "name": "Civillian's House",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11018": {
+    "name": "Cellar",
+    "music": "BGM0005"
+  },
+  "11019": {
+    "name": "Cellar",
+    "music": "BGM0005"
+  },
+  "11020": {
+    "name": "Prison",
+    "music": "BGM0005"
+  },
+  "11021": {
+    "name": "Kama Peak",
+    "music": "BGM0017"
+  },
+  "11022": {
+    "name": "Jungle",
+    "music": "BGM0010"
+  },
+  "11023": {
+    "name": "Underground Cave",
+    "music": "BGM0005"
+  },
+  "11024": {
+    "name": "Underground Cave",
+    "music": "BGM0005"
+  },
+  "11026": {
+    "name": "1F, Kama Cave",
+    "music": "BGM0005"
+  },
+  "11027": {
+    "name": "2F, Kama Cave",
+    "music": "BGM0005"
+  },
+  "11028": {
+    "name": "3F, Kama Cave",
+    "music": "BGM0005"
+  },
+  "11029": {
+    "name": "Kama Mountain Path",
+    "music": "BGM0017"
+  },
+  "11030": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "11031": {
+    "name": "Residence",
+    "music": "BGM0001",
+    "control": 66
+  },
+  "11032": {
+    "name": "Water Maze",
+    "music": "BGM0012"
+  },
+  "11034": {
+    "name": "Subway",
+    "music": "BGM0005"
+  },
+  "11035": {
+    "name": "Subway",
+    "music": "BGM0005"
+  },
+  "11036": {
+    "name": "Subterranean Maze",
+    "music": "BGM0005"
+  },
+  "11037": {
+    "name": "Subterranean Maze",
+    "music": "BGM0005"
+  },
+  "11038": {
+    "name": "Spirit Building",
+    "music": "BGM0005"
+  },
+  "11039": {
+    "name": "Subway",
+    "music": "BGM0005"
+  },
+  "11040": {
+    "name": "Subway",
+    "music": "BGM0005"
+  },
+  "11041": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "11042": {
+    "name": "1F, Maka Cave",
+    "music": "BGM0005"
+  },
+  "11043": {
+    "name": "2F, Maka Cave",
+    "music": "BGM0005"
+  },
+  "11044": {
+    "name": "Jungle",
+    "music": "BGM0017"
+  },
+  "11045": {
+    "name": "Maka Peak",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "11046": {
+    "name": "3F, Maka Cave",
+    "music": "BGM0005"
+  },
+  "11047": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "11048": {
+    "name": "Bear's Den",
+    "music": "BGM0005"
+  },
+  "11049": {
+    "name": "Deck Of Western Ship",
+    "music": "BGM0011"
+  },
+  "11050": {
+    "name": "Cabin",
+    "music": "BGM0011"
+  },
+  "11051": {
+    "name": "Walkway In Cabin",
+    "music": "BGM0011"
+  },
+  "11052": {
+    "name": "Deck Of Western Ship",
+    "music": "BGM0011"
+  },
+  "11053": {
+    "name": "Cabin",
+    "music": "BGM0011"
+  },
+  "11054": {
+    "name": "Walkway In Cabin",
+    "music": "BGM0011"
+  },
+  "11055": {
+    "name": "East Ship Deck",
+    "music": "BGM0011"
+  },
+  "11056": {
+    "name": "Cabin",
+    "music": "BGM0011"
+  },
+  "11057": {
+    "name": "Walkway In Cabin",
+    "music": "BGM0011"
+  },
+  "11058": {
+    "name": "East Ship Deck",
+    "music": "BGM0011"
+  },
+  "11059": {
+    "name": "Cabin",
+    "music": "BGM0011"
+  },
+  "11060": {
+    "name": "Walkway In Cabin",
+    "music": "BGM0011"
+  },
+  "11061": {
+    "name": "Bodega Hidden Path",
+    "music": "BGM0005"
+  },
+  "11062": {
+    "name": "Farmhouse",
+    "music": "BGM0027"
+  },
+  "11063": {
+    "name": "Twilight Overlook",
+    "music": "BGM0005"
+  },
+  "11064": {
+    "name": "Twilight Overlook",
+    "music": "BGM0005"
+  },
+  "11065": {
+    "name": "Overlook",
+    "music": "BGM0005"
+  },
+  "11066": {
+    "name": "Overlook",
+    "music": "BGM0005"
+  },
+  "11067": {
+    "name": "Hanging Bridge View",
+    "music": "BGM0005"
+  },
+  "11068": {
+    "name": "Broken Bridge View",
+    "music": "BGM0005"
+  },
+  "11069": {
+    "name": "Hawaiian Cave",
+    "music": "BGM0005"
+  },
+  "11070": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "11071": {
+    "name": "Hollow Tree",
+    "music": "BGM0005"
+  },
+  "11072": {
+    "name": "1F, Activity Centre",
+    "music": "BGM0001"
+  },
+  "11073": {
+    "name": "2F, Activity Centre",
+    "music": "BGM0001",
+    "control": 98
+  },
+  "11074": {
+    "name": "Highland",
+    "music": "BGM0005"
+  },
+  "11075": {
+    "name": "Hilltop",
+    "music": "BGM0017"
+  },
+  "11076": {
+    "name": "Prison",
+    "music": "BGM0005"
+  },
+  "11077": {
+    "name": "Mystic Subway",
+    "music": "BGM0005"
+  },
+  "11078": {
+    "name": "Fiery Pathway",
+    "music": "BGM0005"
+  },
+  "11079": {
+    "name": "Doctor's Lab",
+    "music": "BGM0005"
+  },
+  "11080": {
+    "name": "Fiery Pathway",
+    "music": "BGM0005"
+  },
+  "11081": {
+    "name": "1F, Beetle Den",
+    "music": "BGM0005"
+  },
+  "11082": {
+    "name": "2F, Beetle Den",
+    "music": "BGM0005"
+  },
+  "11083": {
+    "name": "Chicken Farm",
+    "music": "BGM0005"
+  },
+  "11084": {
+    "name": "Pine Forest",
+    "music": "BGM0005"
+  },
+  "11085": {
+    "name": "Hollow Tree",
+    "music": "BGM0005"
+  },
+  "11086": {
+    "name": "Hollow Tree",
+    "music": "BGM0005"
+  },
+  "11087": {
+    "name": "Hollow Tree",
+    "music": "BGM0005"
+  },
+  "11088": {
+    "name": "Hilltop",
+    "music": "BGM0017"
+  },
+  "11089": {
+    "name": "Hilltop Hot Spring",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "11090": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "11091": {
+    "name": "Aqueduct",
+    "music": "BGM0005"
+  },
+  "11092": {
+    "name": "Valley Path",
+    "music": "BGM0005"
+  },
+  "11093": {
+    "name": "Witch's home",
+    "music": "BGM0005"
+  },
+  "11094": {
+    "name": "Carnie",
+    "music": "BGM0019",
+    "control": 2
+  },
+  "11095": {
+    "name": "Underground Maze",
+    "music": "BGM0005"
+  },
+  "11096": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11097": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11098": {
+    "name": "Underground Pathway",
+    "music": "BGM0026"
+  },
+  "11099": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11100": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11101": {
+    "name": "Underground Pathway",
+    "music": "BGM0012"
+  },
+  "11102": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11103": {
+    "name": "Backroom",
+    "music": "BGM0005"
+  },
+  "11104": {
+    "name": "Backroom",
+    "music": "BGM0005"
+  },
+  "11105": {
+    "name": "Dragon Palace",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11106": {
+    "name": "Inside Dragon Palace",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11109": {
+    "name": "Cave Secret Path",
+    "music": "BGM0005"
+  },
+  "11110": {
+    "name": "Cave Secret Path",
+    "music": "BGM0005"
+  },
+  "11111": {
+    "name": "Underground Pathway",
+    "music": "BGM0007"
+  },
+  "11112": {
+    "name": "Underground Pathway",
+    "music": "BGM0012"
+  },
+  "11113": {
+    "name": "Ship Deck",
+    "music": "BGM0011"
+  },
+  "11114": {
+    "name": "Walkway In Cabin",
+    "music": "BGM0011"
+  },
+  "11115": {
+    "name": "Cabin",
+    "music": "BGM0011"
+  },
+  "11116": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11117": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11118": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11119": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11120": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11121": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "11122": {
+    "name": "Ghost Ship Cabin",
+    "music": "BGM0031"
+  },
+  "11123": {
+    "name": "Ghost Ship Cabin",
+    "music": "BGM0031"
+  },
+  "11124": {
+    "name": "Ghost Ship Cabin",
+    "music": "BGM0031"
+  },
+  "11125": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11126": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11127": {
+    "name": "Madagascar",
+    "music": "BGM0002"
+  },
+  "11128": {
+    "name": "Abyss Cave",
+    "music": "BGM0005"
+  },
+  "11129": {
+    "name": "Castle Subway",
+    "music": "BGM0005"
+  },
+  "11130": {
+    "name": "Castle Subway",
+    "music": "BGM0005"
+  },
+  "11131": {
+    "name": "Fleet Cabin",
+    "music": "BGM0005"
+  },
+  "11132": {
+    "name": "Fleet Cabin",
+    "music": "BGM0005"
+  },
+  "11133": {
+    "name": "Demon Icehouse",
+    "music": "BGM0005"
+  },
+  "11134": {
+    "name": "Demon Icehouse",
+    "music": "BGM0005"
+  },
+  "11135": {
+    "name": "Centaur Island",
+    "music": "BGM0010"
+  },
+  "11136": {
+    "name": "Centaur Residence",
+    "music": "BGM0010"
+  },
+  "11137": {
+    "name": "Centaur Residence",
+    "music": "BGM0010"
+  },
+  "11138": {
+    "name": "Centaur Residence",
+    "music": "BGM0010"
+  },
+  "11139": {
+    "name": "3F, Kama Cave",
+    "music": "BGM0005"
+  },
+  "11140": {
+    "name": "Kama Peak",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "11141": {
+    "name": "Ghost Ship Pathway",
+    "music": "BGM0031"
+  },
+  "11142": {
+    "name": "Ghost Ship Jail",
+    "music": "BGM0031"
+  },
+  "11143": {
+    "name": "Ghost Ship Backroom",
+    "music": "BGM0031"
+  },
+  "11144": {
+    "name": "Ghost Ship Backroom",
+    "music": "BGM0031"
+  },
+  "11145": {
+    "name": "Lion Isle",
+    "music": "BGM0002"
+  },
+  "11146": {
+    "name": "Cellarage",
+    "music": "BGM0005"
+  },
+  "11147": {
+    "name": "Pirates Den",
+    "music": "BGM0005"
+  },
+  "11148": {
+    "name": "Ghostdom",
+    "music": "BGM0030"
+  },
+  "11149": {
+    "name": "Ghostdom",
+    "music": "BGM0030"
+  },
+  "11150": {
+    "name": "Barnya Sky City",
+    "music": "BGM0005"
+  },
+  "11151": {
+    "name": "Refining Room",
+    "music": "BGM0012"
+  },
+  "11152": {
+    "name": "Barnya Sky City",
+    "music": "BGM0005"
+  },
+  "11153": {
+    "name": "Ghostdom",
+    "music": "BGM0030"
+  },
+  "11154": {
+    "name": "Backroom",
+    "music": "BGM0005"
+  },
+  "11155": {
+    "name": "Backroom",
+    "music": "BGM0005"
+  },
+  "11156": {
+    "name": "Backroom",
+    "music": "BGM0005"
+  },
+  "11157": {
+    "name": "Adytum Path",
+    "music": "BGM0031"
+  },
+  "11158": {
+    "name": "Adytum Path",
+    "music": "BGM0031"
+  },
+  "11159": {
+    "name": "Adytum Path",
+    "music": "BGM0031"
+  },
+  "11160": {
+    "name": "Adytum Path",
+    "music": "BGM0031"
+  },
+  "11161": {
+    "name": "Backroom",
+    "music": "BGM0005"
+  },
+  "11162": {
+    "name": "Adytum Path",
+    "music": "BGM0031"
+  },
+  "11163": {
+    "name": "The Moon",
+    "music": "BGM0026"
+  },
+  "11164": {
+    "name": "The Mars",
+    "music": "BGM0026"
+  },
+  "11165": {
+    "name": "Adytum Path",
+    "music": "BGM0005"
+  },
+  "11166": {
+    "name": "Volcano Maze",
+    "music": "BGM0005"
+  },
+  "11167": {
+    "name": "Adytum Path",
+    "music": "BGM0005"
+  },
+  "11168": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11169": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11170": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11171": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11172": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11173": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11174": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11175": {
+    "name": "Sea Channel",
+    "music": "BGM0012",
+    "effect": 6
+  },
+  "11176": {
+    "name": "Wrecked Ship Deck",
+    "music": "BGM0031"
+  },
+  "11177": {
+    "name": "Wrecked Ship Deck",
+    "music": "BGM0031"
+  },
+  "11178": {
+    "name": "Wrecked Ship Deck",
+    "music": "BGM0031"
+  },
+  "11179": {
+    "name": "Wrecked Ship Deck",
+    "music": "BGM0031"
+  },
+  "11180": {
+    "name": "Cursed Arena",
+    "music": "BGM0005"
+  },
+  "11181": {
+    "name": "Hotspring Cave",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "11182": {
+    "name": "Luna's Path",
+    "music": "BGM0005"
+  },
+  "11183": {
+    "name": "Luna's Palace",
+    "music": "BGM0031"
+  },
+  "11184": {
+    "name": "Ghostdom",
+    "music": "BGM0030"
+  },
+  "11185": {
+    "name": "Ghostdom",
+    "music": "BGM0030"
+  },
+  "11186": {
+    "name": "Secret Path",
+    "music": "BGM0005"
+  },
+  "11187": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "11188": {
+    "name": "Evil Boundary",
+    "music": "BGM0031"
+  },
+  "11189": {
+    "name": "Inside Of Pine",
+    "music": "BGM0005"
+  },
+  "11190": {
+    "name": "Robber's Base",
+    "music": "BGM0005"
+  },
+  "11191": {
+    "name": "Robber's Treasure",
+    "music": "BGM0005"
+  },
+  "11192": {
+    "name": "Heavy Deck",
+    "music": "BGM0031"
+  },
+  "11193": {
+    "name": "Wrecked Ship Deck",
+    "music": "BGM0011"
+  },
+  "11194": {
+    "name": "Wish Forest",
+    "music": "BGM0005"
+  },
+  "11195": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "11196": {
+    "name": "Bypath",
+    "music": "BGM0005"
+  },
+  "11197": {
+    "name": "Cliff",
+    "music": "BGM0017"
+  },
+  "11198": {
+    "name": "West Of Maka",
+    "music": "BGM0005"
+  },
+  "11199": {
+    "name": "Ship Deck",
+    "music": "BGM0011"
+  },
+  "11200": {
+    "name": "Benthal Tunnel",
+    "music": "BGM0005"
+  },
+  "11201": {
+    "name": "Laboratory",
+    "music": "BGM0005"
+  },
+  "11202": {
+    "name": "Ship Deck",
+    "music": "BGM0011"
+  },
+  "11203": {
+    "name": "Walkway In Cabin",
+    "music": "BGM0011"
+  },
+  "11204": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11205": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11206": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11207": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11208": {
+    "name": "Cabin",
+    "music": "BGM0005"
+  },
+  "11209": {
+    "name": "1F, Secret Tunnel",
+    "music": "BGM0005"
+  },
+  "11210": {
+    "name": "Ming Dynasty Naval V",
+    "music": "BGM0005"
+  },
+  "11211": {
+    "name": "2F, Secret Tunnel",
+    "music": "BGM0005"
+  },
+  "12000": {
+    "name": "Kelan Village",
+    "music": "BGM0009"
+  },
+  "12001": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12002": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12003": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12004": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12005": {
+    "name": "1F, Cave",
+    "music": "BGM0005"
+  },
+  "12006": {
+    "name": "2F, Cave",
+    "music": "BGM0005"
+  },
+  "12007": {
+    "name": "3F, Cave",
+    "music": "BGM0005"
+  },
+  "12008": {
+    "name": "Woods",
+    "music": "BGM0005"
+  },
+  "12009": {
+    "name": "Woods",
+    "music": "BGM0005"
+  },
+  "12050": {
+    "name": "Welling Village",
+    "music": "BGM0009"
+  },
+  "12051": {
+    "name": "Inn",
+    "music": "BGM0009"
+  },
+  "12052": {
+    "name": "2F, Inn",
+    "music": "BGM0009"
+  },
+  "12053": {
+    "name": "Weaponry",
+    "music": "BGM0009"
+  },
+  "12054": {
+    "name": "Stuff Shop",
+    "music": "BGM0009"
+  },
+  "12055": {
+    "name": "The Villageleader's",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12056": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12057": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12058": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12059": {
+    "name": "Civillian's House",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12060": {
+    "name": "Civillian's House",
+    "music": "BGM0009"
+  },
+  "12061": {
+    "name": "Brewer's Home",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12062": {
+    "name": "1F, The Capitol",
+    "music": "BGM0009"
+  },
+  "12063": {
+    "name": "3F, The Capitol",
+    "music": "BGM0009",
+    "control": 66
+  },
+  "12064": {
+    "name": "2F, The Capitol",
+    "music": "BGM0009",
+    "control": 98
+  },
+  "12065": {
+    "name": "4F, The Capitol",
+    "music": "BGM0009"
+  },
+  "12066": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "12067": {
+    "name": "Benthal Tunnel",
+    "music": "BGM0005"
+  },
+  "12100": {
+    "name": "Fishing Village",
+    "music": "BGM0008"
+  },
+  "12101": {
+    "name": "Spring House",
+    "music": "BGM0008"
+  },
+  "12102": {
+    "name": "Weaponry",
+    "music": "BGM0008"
+  },
+  "12103": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12104": {
+    "name": "Chinese Forests",
+    "music": "BGM0005"
+  },
+  "12105": {
+    "name": "Ancient Yazhou City",
+    "music": "BGM0008"
+  },
+  "12106": {
+    "name": "Underground Cave",
+    "music": "BGM0005"
+  },
+  "12107": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12108": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12109": {
+    "name": "Jinjan Hummock",
+    "music": "BGM0005"
+  },
+  "12110": {
+    "name": "Chang'an",
+    "music": "BGM0008"
+  },
+  "12111": {
+    "name": "Armory",
+    "music": "BGM0008"
+  },
+  "12112": {
+    "name": "Longai Hotel",
+    "music": "BGM0008"
+  },
+  "12113": {
+    "name": "2F, Hotel",
+    "music": "BGM0008"
+  },
+  "12114": {
+    "name": "Tavern",
+    "music": "BGM0008"
+  },
+  "12115": {
+    "name": "Drugstore",
+    "music": "BGM0008"
+  },
+  "12116": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12117": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12118": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12119": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "12120": {
+    "name": "Great Wall",
+    "music": "BGM0008"
+  },
+  "12121": {
+    "name": "Great Wall",
+    "music": "BGM0008"
+  },
+  "12122": {
+    "name": "Bypath",
+    "music": "BGM0005"
+  },
+  "12123": {
+    "name": "Bypath",
+    "music": "BGM0005"
+  },
+  "12124": {
+    "name": "Great Wall Routeway",
+    "music": "BGM0008"
+  },
+  "12125": {
+    "name": "Great Wall Routeway",
+    "music": "BGM0008"
+  },
+  "12126": {
+    "name": "Great Wall Passage",
+    "music": "BGM0005"
+  },
+  "12127": {
+    "name": "Great Wall Passage",
+    "music": "BGM0005"
+  },
+  "12128": {
+    "name": "Great Wall Tunnel",
+    "music": "BGM0005"
+  },
+  "12129": {
+    "name": "Great Wall Tunnel",
+    "music": "BGM0005"
+  },
+  "12130": {
+    "name": "Underground Tumulus",
+    "music": "BGM0005"
+  },
+  "12131": {
+    "name": "Underground Tumulus",
+    "music": "BGM0005"
+  },
+  "12132": {
+    "name": "Underground Tumulus",
+    "music": "BGM0005"
+  },
+  "12133": {
+    "name": "Demon Den",
+    "music": "BGM0005"
+  },
+  "12134": {
+    "name": "Demon Den",
+    "music": "BGM0005"
+  },
+  "12135": {
+    "name": "Demon Den",
+    "music": "BGM0005"
+  },
+  "12136": {
+    "name": "Demon Den",
+    "music": "BGM0005"
+  },
+  "12137": {
+    "name": "Demon Den",
+    "music": "BGM0005"
+  },
+  "12138": {
+    "name": "Demon Den",
+    "music": "BGM0005"
+  },
+  "12139": {
+    "name": "Hotspring House",
+    "music": "BGM0025",
+    "effect": 3
+  },
+  "12140": {
+    "name": "Wind Pathway",
+    "music": "BGM0005"
+  },
+  "12141": {
+    "name": "Mystic Pathway",
+    "music": "BGM0005"
+  },
+  "12142": {
+    "name": "Mystic Pathway",
+    "music": "BGM0005"
+  },
+  "12143": {
+    "name": "Dragon Palace",
+    "music": "BGM0005"
+  },
+  "12144": {
+    "name": "Qin Emperor Tomb",
+    "music": "BGM0007"
+  },
+  "12145": {
+    "name": "Xu Fu's Cave",
+    "music": "BGM0005"
+  },
+  "12146": {
+    "name": "Vale Jungle",
+    "music": "BGM0005"
+  },
+  "12147": {
+    "name": "Vale Lake",
+    "music": "BGM0005"
+  },
+  "12148": {
+    "name": "Tomb Pathway",
+    "music": "BGM0005"
+  },
+  "12149": {
+    "name": "Tomb Pathway",
+    "music": "BGM0005"
+  },
+  "12150": {
+    "name": "Mayan Tribe",
+    "music": "BGM0023"
+  },
+  "12151": {
+    "name": "Sacerdotal's Home",
+    "music": "BGM0023"
+  },
+  "12152": {
+    "name": "Stuff Shop",
+    "music": "BGM0023"
+  },
+  "12153": {
+    "name": "Weaponry",
+    "music": "BGM0023"
+  },
+  "12154": {
+    "name": "Inn",
+    "music": "BGM0023"
+  },
+  "12155": {
+    "name": "North Temple",
+    "music": "BGM0023"
+  },
+  "12156": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12157": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12158": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12159": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12160": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12161": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12162": {
+    "name": "Cellar",
+    "music": "BGM0026"
+  },
+  "12163": {
+    "name": "Altar Secret Path",
+    "music": "BGM0026"
+  },
+  "12164": {
+    "name": "Cellar",
+    "music": "BGM0026"
+  },
+  "12165": {
+    "name": "Altar Secret Path",
+    "music": "BGM0026"
+  },
+  "12166": {
+    "name": "Altar Secret Path",
+    "music": "BGM0026"
+  },
+  "12167": {
+    "name": "Mayan Grotto",
+    "music": "BGM0026"
+  },
+  "12168": {
+    "name": "Control Center",
+    "music": "BGM0026"
+  },
+  "12169": {
+    "name": "Forestry",
+    "music": "BGM0026"
+  },
+  "12170": {
+    "name": "Forestry",
+    "music": "BGM0026"
+  },
+  "12171": {
+    "name": "Altar Secret Path",
+    "music": "BGM0026"
+  },
+  "12172": {
+    "name": "Illusion Room",
+    "music": "BGM0005"
+  },
+  "12173": {
+    "name": "1F, Mayan Pyramid",
+    "music": "BGM0026"
+  },
+  "12174": {
+    "name": "2F, Mayan Pyramid",
+    "music": "BGM0026"
+  },
+  "12175": {
+    "name": "Underground Path",
+    "music": "BGM0005"
+  },
+  "12176": {
+    "name": "Underground Path",
+    "music": "BGM0005"
+  },
+  "12177": {
+    "name": "Forbidden Chamber",
+    "music": "BGM0005"
+  },
+  "12178": {
+    "name": "Boar's Den",
+    "music": "BGM0005"
+  },
+  "12179": {
+    "name": "Cave",
+    "music": "BGM0026"
+  },
+  "12200": {
+    "name": "Long-Eared Tribe",
+    "music": "BGM0002"
+  },
+  "12201": {
+    "name": "The Villageleader's",
+    "music": "BGM0002"
+  },
+  "12202": {
+    "name": "Weaponry",
+    "music": "BGM0002"
+  },
+  "12203": {
+    "name": "Stuff Shop",
+    "music": "BGM0002"
+  },
+  "12204": {
+    "name": "Civillian's House",
+    "music": "BGM0002"
+  },
+  "12205": {
+    "name": "Civillian's House",
+    "music": "BGM0002"
+  },
+  "12206": {
+    "name": "Volcano Maze",
+    "music": "BGM0005"
+  },
+  "12207": {
+    "name": "Volcano Maze",
+    "music": "BGM0005"
+  },
+  "12208": {
+    "name": "Isle Control Center",
+    "music": "BGM0005"
+  },
+  "12209": {
+    "name": "Passage To Colossus",
+    "music": "BGM0005"
+  },
+  "12210": {
+    "name": "Passage To Colossus",
+    "music": "BGM0005"
+  },
+  "12211": {
+    "name": "Volcano Maze",
+    "music": "BGM0031"
+  },
+  "12212": {
+    "name": "Purgatory",
+    "music": "BGM0031"
+  },
+  "12213": {
+    "name": "Secret Chamber",
+    "music": "BGM0005"
+  },
+  "12250": {
+    "name": "Kyoto",
+    "music": "BGM0025",
+    "effect": 1
+  },
+  "12251": {
+    "name": "1F, Lord Pass",
+    "music": "BGM0025"
+  },
+  "12252": {
+    "name": "2F, Lord Pass",
+    "music": "BGM0025"
+  },
+  "12253": {
+    "name": "3F, Lord Pass",
+    "music": "BGM0025"
+  },
+  "12254": {
+    "name": "1F, Inn",
+    "music": "BGM0025"
+  },
+  "12255": {
+    "name": "2F, Inn",
+    "music": "BGM0025"
+  },
+  "12256": {
+    "name": "Pursue House",
+    "music": "BGM0025"
+  },
+  "12257": {
+    "name": "Soldier Room",
+    "music": "BGM0025"
+  },
+  "12258": {
+    "name": "Geisha House",
+    "music": "BGM0025"
+  },
+  "12259": {
+    "name": "Stuff Shop",
+    "music": "BGM0025"
+  },
+  "12260": {
+    "name": "Casino",
+    "music": "BGM0025"
+  },
+  "12261": {
+    "name": "Weaponry",
+    "music": "BGM0025"
+  },
+  "12262": {
+    "name": "Cloth Store",
+    "music": "BGM0025"
+  },
+  "12263": {
+    "name": "Bathhouse",
+    "music": "BGM0025",
+    "effect": 3
+  },
+  "12264": {
+    "name": "Civilian's House 1",
+    "music": "BGM0025"
+  },
+  "12265": {
+    "name": "Civilian's House 2",
+    "music": "BGM0025"
+  },
+  "12266": {
+    "name": "Civilian's House 3",
+    "music": "BGM0025"
+  },
+  "12267": {
+    "name": "Cavern",
+    "music": "BGM0026"
+  },
+  "12268": {
+    "name": "Cavern",
+    "music": "BGM0026"
+  },
+  "12269": {
+    "name": "Cavern",
+    "music": "BGM0026"
+  },
+  "12270": {
+    "name": "Cavern",
+    "music": "BGM0026"
+  },
+  "12271": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "12272": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "12273": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "12274": {
+    "name": "1F, Golden Temple",
+    "music": "BGM0005"
+  },
+  "12275": {
+    "name": "2F, Golden Temple",
+    "music": "BGM0005"
+  },
+  "12276": {
+    "name": "3F, Golden Temple",
+    "music": "BGM0005"
+  },
+  "12277": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12278": {
+    "name": "Hill Road",
+    "music": "BGM0026"
+  },
+  "12279": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12280": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12281": {
+    "name": "Shayii Hill",
+    "music": "BGM0012"
+  },
+  "12282": {
+    "name": "1F, Shayii Hill",
+    "music": "BGM0026"
+  },
+  "12283": {
+    "name": "2F, Shayii Hill",
+    "music": "BGM0026"
+  },
+  "12284": {
+    "name": "Shayii Peak",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "12285": {
+    "name": "Shayii Peak",
+    "music": "BGM0017",
+    "effect": 2
+  },
+  "12286": {
+    "name": "Ghost Isle Cave",
+    "music": "BGM0030"
+  },
+  "12287": {
+    "name": "Ghost Isle Cave",
+    "music": "BGM0030"
+  },
+  "12288": {
+    "name": "Ghost Isle Cave",
+    "music": "BGM0030"
+  },
+  "12289": {
+    "name": "Ready for use",
+    "music": "BGM0005"
+  },
+  "12290": {
+    "name": "4F, Golden Temple",
+    "music": "BGM0005"
+  },
+  "12291": {
+    "name": "5F, Golden Temple",
+    "music": "BGM0005"
+  },
+  "12292": {
+    "name": "5F, Golden Temple",
+    "music": "BGM0005"
+  },
+  "12293": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "12294": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12295": {
+    "name": "Cave",
+    "music": "BGM0026"
+  },
+  "12296": {
+    "name": "Hilltop",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "12297": {
+    "name": "Eastern Forest",
+    "music": "BGM0005"
+  },
+  "12298": {
+    "name": "Cliff",
+    "music": "BGM0017"
+  },
+  "12299": {
+    "name": "Civillian's House",
+    "music": "BGM0025"
+  },
+  "12300": {
+    "name": "Calcutta",
+    "music": "BGM0023"
+  },
+  "12301": {
+    "name": "Stuff Shop",
+    "music": "BGM0023"
+  },
+  "12302": {
+    "name": "Inn",
+    "music": "BGM0023"
+  },
+  "12303": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12304": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12305": {
+    "name": "Bypath",
+    "music": "BGM0026"
+  },
+  "12306": {
+    "name": "Snake Cave",
+    "music": "BGM0026"
+  },
+  "12307": {
+    "name": "Snake Cave",
+    "music": "BGM0026"
+  },
+  "12312": {
+    "name": "Bypath",
+    "music": "BGM0026"
+  },
+  "12313": {
+    "name": "Underground Pathway",
+    "music": "BGM0005"
+  },
+  "12314": {
+    "name": "Pasture",
+    "music": "BGM0005"
+  },
+  "12315": {
+    "name": "Ghostdom Secret Hall",
+    "music": "BGM0026"
+  },
+  "12350": {
+    "name": "Penguin Village",
+    "music": "BGM0012"
+  },
+  "12351": {
+    "name": "Stuff Shop",
+    "music": "BGM0012"
+  },
+  "12352": {
+    "name": "Weaponry",
+    "music": "BGM0012"
+  },
+  "12353": {
+    "name": "Civillian's House",
+    "music": "BGM0012"
+  },
+  "12354": {
+    "name": "Civillian's House",
+    "music": "BGM0012"
+  },
+  "12355": {
+    "name": "South Pole",
+    "music": "BGM0012"
+  },
+  "12356": {
+    "name": "Iceberg",
+    "music": "BGM0012"
+  },
+  "12357": {
+    "name": "Ice Maze",
+    "music": "BGM0012"
+  },
+  "12358": {
+    "name": "Civillian's House",
+    "music": "BGM0012"
+  },
+  "12359": {
+    "name": "Ice House",
+    "music": "BGM0012"
+  },
+  "12360": {
+    "name": "Ice Maze",
+    "music": "BGM0012"
+  },
+  "12361": {
+    "name": "Civillian's House",
+    "music": "BGM0012"
+  },
+  "12362": {
+    "name": "2F, Ice House",
+    "music": "BGM0005"
+  },
+  "12363": {
+    "name": "3F, Ice House",
+    "music": "BGM0005"
+  },
+  "12364": {
+    "name": "4F, Ice House",
+    "music": "BGM0005"
+  },
+  "12365": {
+    "name": "Ice Cave",
+    "music": "BGM0005"
+  },
+  "12366": {
+    "name": "2F, Ice House",
+    "music": "BGM0012",
+    "effect": 3
+  },
+  "12367": {
+    "name": "1F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12368": {
+    "name": "2F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12369": {
+    "name": "3F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12370": {
+    "name": "4F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12371": {
+    "name": "5F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12372": {
+    "name": "6F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12373": {
+    "name": "7F, Snow Cave",
+    "music": "BGM0005"
+  },
+  "12374": {
+    "name": "Underground Ice Cave",
+    "music": "BGM0012"
+  },
+  "12375": {
+    "name": "1F, Forbidden Region",
+    "music": "BGM0005"
+  },
+  "12376": {
+    "name": "2F, Forbidden Region",
+    "music": "BGM0005"
+  },
+  "12377": {
+    "name": "Snow House Backroom",
+    "music": "BGM0005"
+  },
+  "12378": {
+    "name": "Ice House",
+    "music": "BGM0005"
+  },
+  "12379": {
+    "name": "Ice House",
+    "music": "BGM0005"
+  },
+  "12380": {
+    "name": "Laboratory",
+    "music": "BGM0005"
+  },
+  "12381": {
+    "name": "Forbidden Ice Cave",
+    "music": "BGM0005"
+  },
+  "12400": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12401": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12402": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12403": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12404": {
+    "name": "Aus. Hilltop Passage",
+    "music": "BGM0026"
+  },
+  "12405": {
+    "name": "Aus. Hilltop",
+    "music": "BGM0017"
+  },
+  "12406": {
+    "name": "Dragon Arena",
+    "music": "BGM0005"
+  },
+  "12407": {
+    "name": "Dead Vale",
+    "music": "BGM0012"
+  },
+  "12408": {
+    "name": "Dead Vale",
+    "music": "BGM0002"
+  },
+  "12450": {
+    "name": "Inchon",
+    "music": "BGM0025"
+  },
+  "12451": {
+    "name": "The Villageleader's",
+    "music": "BGM0025"
+  },
+  "12452": {
+    "name": "Drugstore",
+    "music": "BGM0025"
+  },
+  "12453": {
+    "name": "Civillian's House",
+    "music": "BGM0025"
+  },
+  "12454": {
+    "name": "Civillian's House",
+    "music": "BGM0025"
+  },
+  "12455": {
+    "name": "Civillian's House",
+    "music": "BGM0025"
+  },
+  "12456": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12457": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12458": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12459": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12460": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12461": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12462": {
+    "name": "Korean Hotspring",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "12463": {
+    "name": "Waterfall Grotto",
+    "music": "BGM0012"
+  },
+  "12464": {
+    "name": "Waterfall Grotto",
+    "music": "BGM0012"
+  },
+  "12465": {
+    "name": "Fairy Altar",
+    "music": "BGM0012"
+  },
+  "12466": {
+    "name": "Inchon Suburb",
+    "music": "BGM0005"
+  },
+  "12467": {
+    "name": "Civillian's House",
+    "music": "BGM0025"
+  },
+  "12468": {
+    "name": "Korean Maze",
+    "music": "BGM0005"
+  },
+  "12469": {
+    "name": "Frost Peak",
+    "music": "BGM0017",
+    "effect": 2
+  },
+  "12500": {
+    "name": "Cairo",
+    "music": "BGM0023"
+  },
+  "12501": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12502": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12503": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12504": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0030"
+  },
+  "12505": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0030"
+  },
+  "12506": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0030"
+  },
+  "12507": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0030"
+  },
+  "12508": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0030"
+  },
+  "12509": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12510": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12511": {
+    "name": "Grassland",
+    "music": "BGM0005"
+  },
+  "12512": {
+    "name": "Grassland",
+    "music": "BGM0005"
+  },
+  "12513": {
+    "name": "Treasure Warehouse",
+    "music": "BGM0031"
+  },
+  "12514": {
+    "name": "Bat Cave",
+    "music": "BGM0005"
+  },
+  "12515": {
+    "name": "Cactus Llano",
+    "music": "BGM0005"
+  },
+  "12516": {
+    "name": "Egyptian Great Llano",
+    "music": "BGM0005"
+  },
+  "12517": {
+    "name": "Mystic Cave",
+    "music": "BGM0005"
+  },
+  "12518": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0005"
+  },
+  "12519": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0005"
+  },
+  "12520": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0005"
+  },
+  "12521": {
+    "name": "Adytum Path",
+    "music": "BGM0005"
+  },
+  "12522": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0005"
+  },
+  "12523": {
+    "name": "Way Of Truth",
+    "music": "BGM0030"
+  },
+  "12524": {
+    "name": "Mystic Passage",
+    "music": "BGM0030"
+  },
+  "12525": {
+    "name": "Illusion Cellar",
+    "music": "BGM0005"
+  },
+  "12526": {
+    "name": "Illusion Cellar",
+    "music": "BGM0005"
+  },
+  "12527": {
+    "name": "Illusion Cellar",
+    "music": "BGM0005"
+  },
+  "12528": {
+    "name": "Illusion Cellar",
+    "music": "BGM0017"
+  },
+  "12529": {
+    "name": "Illusion Cellar",
+    "music": "BGM0005"
+  },
+  "12530": {
+    "name": "Pyramid Secret Path",
+    "music": "BGM0030"
+  },
+  "12531": {
+    "name": "Boundary",
+    "music": "BGM0030"
+  },
+  "12532": {
+    "name": "Egyptian Palace",
+    "music": "BGM0031"
+  },
+  "12533": {
+    "name": "Lost Desert",
+    "music": "BGM0005"
+  },
+  "12534": {
+    "name": "Tut's Maze",
+    "music": "BGM0005"
+  },
+  "12535": {
+    "name": "Pathway Of Burial",
+    "music": "BGM0005"
+  },
+  "12536": {
+    "name": "Tut's Burial",
+    "music": "BGM0005"
+  },
+  "12537": {
+    "name": "Dreamland",
+    "music": "BGM0030"
+  },
+  "12538": {
+    "name": "Dreamland",
+    "music": "BGM0030"
+  },
+  "12539": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12540": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12541": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12542": {
+    "name": "Pyramid Secret Room",
+    "music": "BGM0005"
+  },
+  "12543": {
+    "name": "40 Thieves' Treasure",
+    "music": "BGM0005"
+  },
+  "12544": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12545": {
+    "name": "Cave Behind Cairo",
+    "music": "BGM0005"
+  },
+  "12546": {
+    "name": "Cave Behind Cairo",
+    "music": "BGM0005"
+  },
+  "12547": {
+    "name": "Cave Behind Cairo",
+    "music": "BGM0005"
+  },
+  "12548": {
+    "name": "Cave Behind Cairo",
+    "music": "BGM0005"
+  },
+  "12549": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12551": {
+    "name": "Hawaii Residence",
+    "music": "BGM0024"
+  },
+  "12552": {
+    "name": "Hawaii Residence",
+    "music": "BGM0024"
+  },
+  "12553": {
+    "name": "2F, Hawaii Cave",
+    "music": "BGM0005"
+  },
+  "12554": {
+    "name": "3F, Hawaii Cave",
+    "music": "BGM0005"
+  },
+  "12555": {
+    "name": "Hawaii Hilltop",
+    "music": "BGM0017"
+  },
+  "12556": {
+    "name": "Hawaiian Hotsprings",
+    "music": "BGM0017",
+    "effect": 3
+  },
+  "12600": {
+    "name": "Bangkok",
+    "music": "BGM0035"
+  },
+  "12601": {
+    "name": "Harbor",
+    "music": "BGM0024"
+  },
+  "12602": {
+    "name": "Angkor Wat",
+    "music": "BGM0017"
+  },
+  "12603": {
+    "name": "Royal Palace",
+    "music": "BGM0023"
+  },
+  "12604": {
+    "name": "Weaponry",
+    "music": "BGM0023"
+  },
+  "12605": {
+    "name": "Inn",
+    "music": "BGM0023"
+  },
+  "12606": {
+    "name": "2F, Inn",
+    "music": "BGM0023"
+  },
+  "12607": {
+    "name": "Grocery",
+    "music": "BGM0023"
+  },
+  "12608": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12609": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12610": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12611": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12612": {
+    "name": "Budda's Chamber",
+    "music": "BGM0023"
+  },
+  "12613": {
+    "name": "Thailand Jungle",
+    "music": "BGM0005"
+  },
+  "12614": {
+    "name": "Thai Secret Path",
+    "music": "BGM0005"
+  },
+  "12615": {
+    "name": "Mystic Jungle",
+    "music": "BGM0005"
+  },
+  "12616": {
+    "name": "Thai Secret Path",
+    "music": "BGM0005"
+  },
+  "12617": {
+    "name": "Buddha's Path",
+    "music": "BGM0005"
+  },
+  "12618": {
+    "name": "Buddha's Path",
+    "music": "BGM0005"
+  },
+  "12619": {
+    "name": "Buddha's Path",
+    "music": "BGM0005"
+  },
+  "12620": {
+    "name": "Buddha's Path",
+    "music": "BGM0005"
+  },
+  "12621": {
+    "name": "Angkor Maze",
+    "music": "BGM0005"
+  },
+  "12622": {
+    "name": "Angkor Maze",
+    "music": "BGM0005"
+  },
+  "12623": {
+    "name": "Angkor Maze",
+    "music": "BGM0005"
+  },
+  "12624": {
+    "name": "Angkor Maze",
+    "music": "BGM0005"
+  },
+  "12625": {
+    "name": "Job Palace",
+    "music": "BGM0023"
+  },
+  "12626": {
+    "name": "1F, Training Region",
+    "music": "BGM0005"
+  },
+  "12627": {
+    "name": "2F, Training Region",
+    "music": "BGM0005"
+  },
+  "12628": {
+    "name": "3F, Training Region",
+    "music": "BGM0005"
+  },
+  "12629": {
+    "name": "4F, Training Region",
+    "music": "BGM0005"
+  },
+  "12630": {
+    "name": "5F, Training Region",
+    "music": "BGM0005"
+  },
+  "12631": {
+    "name": "Thai Secret Path",
+    "music": "BGM0005"
+  },
+  "12632": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12633": {
+    "name": "Hilltop",
+    "music": "BGM0017"
+  },
+  "12634": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12635": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12636": {
+    "name": "Back Jungle",
+    "music": "BGM0017"
+  },
+  "12637": {
+    "name": "Angkor Aisle",
+    "music": "BGM0005"
+  },
+  "12638": {
+    "name": "Angkor Secret Path",
+    "music": "BGM0005"
+  },
+  "12639": {
+    "name": "Main Town Path",
+    "music": "BGM0005"
+  },
+  "12640": {
+    "name": "Main Town Of Angkor",
+    "music": "BGM0005"
+  },
+  "12641": {
+    "name": "Main Town Of Angkor",
+    "music": "BGM0005"
+  },
+  "12642": {
+    "name": "Main Town Of Angkor",
+    "music": "BGM0005"
+  },
+  "12643": {
+    "name": "Main Town Of Angkor",
+    "music": "BGM0005"
+  },
+  "12644": {
+    "name": "Main Town Of Angkor",
+    "music": "BGM0005"
+  },
+  "12645": {
+    "name": "Alfer Gorge",
+    "music": "BGM0017"
+  },
+  "12646": {
+    "name": "Secret Path Of Gorge",
+    "music": "BGM0005"
+  },
+  "12647": {
+    "name": "Alfer Village",
+    "music": "BGM0017"
+  },
+  "12648": {
+    "name": "Alfer Gorge",
+    "music": "BGM0017"
+  },
+  "12649": {
+    "name": "Holy Land In Angkor",
+    "music": "BGM0005"
+  },
+  "12650": {
+    "name": "Machu Picchu",
+    "music": "BGM0023"
+  },
+  "12651": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12652": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12653": {
+    "name": "Civillian's House",
+    "music": "BGM0023"
+  },
+  "12654": {
+    "name": "Weaponry",
+    "music": "BGM0023"
+  },
+  "12655": {
+    "name": "Main Hall Of Temple",
+    "music": "BGM0023"
+  },
+  "12656": {
+    "name": "Side Hall Of Temple",
+    "music": "BGM0023"
+  },
+  "12657": {
+    "name": "Grocery",
+    "music": "BGM0023"
+  },
+  "12658": {
+    "name": "Cafeteria",
+    "music": "BGM0023"
+  },
+  "12659": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12660": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12661": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12662": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12663": {
+    "name": "Civillian's House",
+    "music": "BGM0007"
+  },
+  "12664": {
+    "name": "Underground Path",
+    "music": "BGM0005"
+  },
+  "12665": {
+    "name": "1F, Mainhall Path",
+    "music": "BGM0005"
+  },
+  "12666": {
+    "name": "2F, Mainhall Path",
+    "music": "BGM0005"
+  },
+  "12667": {
+    "name": "3F, Mainhall Path",
+    "music": "BGM0005"
+  },
+  "12668": {
+    "name": "Underground Path",
+    "music": "BGM0005"
+  },
+  "12669": {
+    "name": "Evil Altar",
+    "music": "BGM0005"
+  },
+  "12670": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12671": {
+    "name": "Underground Cave",
+    "music": "BGM0005"
+  },
+  "12672": {
+    "name": "Underground Path",
+    "music": "BGM0005"
+  },
+  "12673": {
+    "name": "Secret Aisle",
+    "music": "BGM0005"
+  },
+  "12674": {
+    "name": "Jail Of Secret Path",
+    "music": "BGM0005"
+  },
+  "12675": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12676": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12677": {
+    "name": "Spirit Forbidden Gro",
+    "music": "BGM0005"
+  },
+  "12700": {
+    "name": "African Villages",
+    "music": "BGM0002"
+  },
+  "12701": {
+    "name": "African Residence",
+    "music": "BGM0002"
+  },
+  "12702": {
+    "name": "African Residence",
+    "music": "BGM0002"
+  },
+  "12703": {
+    "name": "Africa Plain",
+    "music": "BGM0002"
+  },
+  "12704": {
+    "name": "African Residence",
+    "music": "BGM0002"
+  },
+  "12705": {
+    "name": "Slave Ship Deck",
+    "music": "BGM0031"
+  },
+  "12706": {
+    "name": "Slave Ship Walkway",
+    "music": "BGM0031"
+  },
+  "12707": {
+    "name": "Slave Ship Prison",
+    "music": "BGM0031"
+  },
+  "12750": {
+    "name": "Hanging Garden",
+    "music": "BGM0037"
+  },
+  "12751": {
+    "name": "Hanging Adytum",
+    "music": "BGM0037"
+  },
+  "12752": {
+    "name": "Hanging Adytum",
+    "music": "BGM0037"
+  },
+  "12753": {
+    "name": "Back Jungle",
+    "music": "BGM0037"
+  },
+  "12754": {
+    "name": "Hanging Adytum",
+    "music": "BGM0037"
+  },
+  "12755": {
+    "name": "Hanging Adytum",
+    "music": "BGM0037"
+  },
+  "12756": {
+    "name": "Hanging Adytum",
+    "music": "BGM0037"
+  },
+  "12757": {
+    "name": "Statue Chamber",
+    "music": "BGM0037"
+  },
+  "12758": {
+    "name": "Unkown Cavern",
+    "music": "BGM0005"
+  },
+  "12759": {
+    "name": "Ant Cavern",
+    "music": "BGM0005"
+  },
+  "12760": {
+    "name": "Ant-Egg Cavern",
+    "music": "BGM0005"
+  },
+  "12761": {
+    "name": "Hanging Adytum",
+    "music": "BGM0037"
+  },
+  "12762": {
+    "name": "Hanging Extension",
+    "music": "BGM0037"
+  },
+  "12763": {
+    "name": "Mystic Garden",
+    "music": "BGM0037"
+  },
+  "12764": {
+    "name": "1F, Prison",
+    "music": "BGM0005"
+  },
+  "12765": {
+    "name": "2F, Prison",
+    "music": "BGM0005"
+  },
+  "12766": {
+    "name": "Altar",
+    "music": "BGM0012",
+    "control": 87
+  },
+  "12767": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12768": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12800": {
+    "name": "Athens",
+    "music": "BGM0001"
+  },
+  "12801": {
+    "name": "Large Hall",
+    "music": "BGM0001"
+  },
+  "12802": {
+    "name": "Small Hall",
+    "music": "BGM0001"
+  },
+  "12803": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "12804": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "12805": {
+    "name": "Executive House",
+    "music": "BGM0001"
+  },
+  "12806": {
+    "name": "2F, Executive House",
+    "music": "BGM0001"
+  },
+  "12807": {
+    "name": "Weaponry",
+    "music": "BGM0001"
+  },
+  "12808": {
+    "name": "Inn",
+    "music": "BGM0001"
+  },
+  "12809": {
+    "name": "2F, Inn",
+    "music": "BGM0001"
+  },
+  "12810": {
+    "name": "Stuff Shop",
+    "music": "BGM0001"
+  },
+  "12811": {
+    "name": "Opera House",
+    "music": "BGM0001"
+  },
+  "12812": {
+    "name": "Fisherman's Home",
+    "music": "BGM0001"
+  },
+  "12813": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "12814": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12815": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12816": {
+    "name": "2nd Palace",
+    "music": "BGM0039"
+  },
+  "12817": {
+    "name": "1st Palace",
+    "music": "BGM0039"
+  },
+  "12818": {
+    "name": "3rd Palace",
+    "music": "BGM0039"
+  },
+  "12819": {
+    "name": "4th Palace",
+    "music": "BGM0039"
+  },
+  "12820": {
+    "name": "5th Palace",
+    "music": "BGM0039"
+  },
+  "12821": {
+    "name": "6th Palace",
+    "music": "BGM0039"
+  },
+  "12822": {
+    "name": "7th Palace",
+    "music": "BGM0039"
+  },
+  "12823": {
+    "name": "8th Palace",
+    "music": "BGM0039"
+  },
+  "12824": {
+    "name": "9th Palace",
+    "music": "BGM0039"
+  },
+  "12825": {
+    "name": "10th Palace",
+    "music": "BGM0039"
+  },
+  "12826": {
+    "name": "11th Palace",
+    "music": "BGM0039"
+  },
+  "12827": {
+    "name": "12th Palace",
+    "music": "BGM0039"
+  },
+  "12828": {
+    "name": "Operahouse Backway",
+    "music": "BGM0001"
+  },
+  "12829": {
+    "name": "Leopard Feedlot",
+    "music": "BGM0005"
+  },
+  "12830": {
+    "name": "Executive Chamber",
+    "music": "BGM0005"
+  },
+  "12831": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "12832": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "12833": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12834": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12835": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12836": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12837": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12838": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12839": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12840": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12841": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12842": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12843": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12844": {
+    "name": "Cursed Palace Path",
+    "music": "BGM0039"
+  },
+  "12845": {
+    "name": "Civilian's Cellar",
+    "music": "BGM0005"
+  },
+  "12846": {
+    "name": "Mystic Cellar",
+    "music": "BGM0005"
+  },
+  "12847": {
+    "name": "Flaming Caldera",
+    "music": "BGM0005"
+  },
+  "12848": {
+    "name": "Forbidden Spot",
+    "music": "BGM0005"
+  },
+  "12849": {
+    "name": "Inside Pyramid",
+    "music": "BGM0005"
+  },
+  "12850": {
+    "name": "Yamataikoku",
+    "music": "BGM0036"
+  },
+  "12851": {
+    "name": "1F, Officiant Palace",
+    "music": "BGM0036"
+  },
+  "12852": {
+    "name": "2F, Officiant Palace",
+    "music": "BGM0036"
+  },
+  "12853": {
+    "name": "Inn",
+    "music": "BGM0036"
+  },
+  "12854": {
+    "name": "Civillian's House",
+    "music": "BGM0036"
+  },
+  "12855": {
+    "name": "Civillian's House",
+    "music": "BGM0036"
+  },
+  "12856": {
+    "name": "Civillian's House",
+    "music": "BGM0036"
+  },
+  "12857": {
+    "name": "Civillian's House",
+    "music": "BGM0036"
+  },
+  "12858": {
+    "name": "Stuff Shop",
+    "music": "BGM0036"
+  },
+  "12859": {
+    "name": "Sky Land",
+    "music": "BGM0030",
+    "effect": 2
+  },
+  "12860": {
+    "name": "Sky Land",
+    "music": "BGM0030",
+    "effect": 2
+  },
+  "12861": {
+    "name": "Yamataikoku Suburb",
+    "music": "BGM0005"
+  },
+  "12862": {
+    "name": "Forbidden Area",
+    "music": "BGM0005"
+  },
+  "12863": {
+    "name": "Cherry Forest",
+    "music": "BGM0005"
+  },
+  "12864": {
+    "name": "Secret Cave",
+    "music": "BGM0026"
+  },
+  "12865": {
+    "name": "Secret Cave",
+    "music": "BGM0026"
+  },
+  "12866": {
+    "name": "Secret Cave",
+    "music": "BGM0026"
+  },
+  "12867": {
+    "name": "Secret Cave",
+    "music": "BGM0026"
+  },
+  "12868": {
+    "name": "Eastern Valley",
+    "music": "BGM0005"
+  },
+  "12869": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12870": {
+    "name": "Shayi Forbidden Area",
+    "music": "BGM0026"
+  },
+  "12871": {
+    "name": "Shayi Forbidden Area",
+    "music": "BGM0026"
+  },
+  "12872": {
+    "name": "Shayi Forbidden Area",
+    "music": "BGM0026"
+  },
+  "12873": {
+    "name": "Cavern",
+    "music": "BGM0026"
+  },
+  "12874": {
+    "name": "Cavern",
+    "music": "BGM0026"
+  },
+  "12875": {
+    "name": "Fire Maple Forest",
+    "music": "BGM0005"
+  },
+  "12876": {
+    "name": "Secret Path",
+    "music": "BGM0005"
+  },
+  "12877": {
+    "name": "Secret Room",
+    "music": "BGM0005"
+  },
+  "12878": {
+    "name": "Ice Cave",
+    "music": "BGM0012"
+  },
+  "12879": {
+    "name": "Ice Cave",
+    "music": "BGM0012"
+  },
+  "12880": {
+    "name": "Well Bottom",
+    "music": "BGM0005"
+  },
+  "12881": {
+    "name": "Dark Cave",
+    "music": "BGM0026"
+  },
+  "12882": {
+    "name": "Underground Corridor",
+    "music": "BGM0026"
+  },
+  "12883": {
+    "name": "Throne Hall",
+    "music": "BGM0026"
+  },
+  "12900": {
+    "name": "Turtle Isle",
+    "music": "BGM0005"
+  },
+  "12901": {
+    "name": "Turtle Isle",
+    "music": "BGM0005"
+  },
+  "12902": {
+    "name": "Relic Island",
+    "music": "BGM0005"
+  },
+  "12903": {
+    "name": "Water Passage",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "12904": {
+    "name": "Seabed Palace",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "12905": {
+    "name": "Deep Jungle",
+    "music": "BGM0005"
+  },
+  "12906": {
+    "name": "Seabed Palace",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "12907": {
+    "name": "Hidden Waterway",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "12908": {
+    "name": "Stomach",
+    "music": "BGM0012"
+  },
+  "12909": {
+    "name": "Smal-Intestine",
+    "music": "BGM0012"
+  },
+  "12910": {
+    "name": "Large-Intestine",
+    "music": "BGM0012"
+  },
+  "12911": {
+    "name": "Sealord Warehouse",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "12912": {
+    "name": "Pirate Path",
+    "music": "BGM0005"
+  },
+  "12913": {
+    "name": "Pirate Treasury",
+    "music": "BGM0005"
+  },
+  "12914": {
+    "name": "Dark Island",
+    "music": "BGM0005"
+  },
+  "12915": {
+    "name": "Maze",
+    "music": "BGM0005"
+  },
+  "12916": {
+    "name": "Maze",
+    "music": "BGM0005"
+  },
+  "12917": {
+    "name": "Maze",
+    "music": "BGM0005"
+  },
+  "12918": {
+    "name": "Maze",
+    "music": "BGM0005"
+  },
+  "12919": {
+    "name": "Water Maze",
+    "music": "BGM0012"
+  },
+  "12920": {
+    "name": "Dungeon",
+    "music": "BGM0031"
+  },
+  "12921": {
+    "name": "Crete",
+    "music": "BGM0005"
+  },
+  "12922": {
+    "name": "Crete Maze",
+    "music": "BGM0005"
+  },
+  "12923": {
+    "name": "Crete Maze",
+    "music": "BGM0005"
+  },
+  "12924": {
+    "name": "Crete Maze",
+    "music": "BGM0005"
+  },
+  "12925": {
+    "name": "Crete Maze",
+    "music": "BGM0005"
+  },
+  "12926": {
+    "name": "Crete Maze",
+    "music": "BGM0005"
+  },
+  "12950": {
+    "name": "Philippine",
+    "music": "BGM0002"
+  },
+  "12951": {
+    "name": "Philippine",
+    "music": "BGM0002"
+  },
+  "12952": {
+    "name": "Philippine",
+    "music": "BGM0002"
+  },
+  "12953": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12954": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12955": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "12956": {
+    "name": "Dungeon",
+    "music": "BGM0005"
+  },
+  "12957": {
+    "name": "Civillian's House",
+    "music": "BGM0002"
+  },
+  "12958": {
+    "name": "Civillian's House",
+    "music": "BGM0002"
+  },
+  "12959": {
+    "name": "Civillian's House",
+    "music": "BGM0002"
+  },
+  "12960": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12961": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "12962": {
+    "name": "Deck Of Western Ship",
+    "music": "BGM0011"
+  },
+  "12963": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "13000": {
+    "name": "Kylin Temple",
+    "music": "BGM0005"
+  },
+  "13001": {
+    "name": "Rehearsal Ground",
+    "music": "BGM0005"
+  },
+  "13002": {
+    "name": "Path",
+    "music": "BGM0008"
+  },
+  "13003": {
+    "name": "Dragon Den",
+    "music": "BGM0005"
+  },
+  "13004": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "13005": {
+    "name": "Curved Cave",
+    "music": "BGM0005"
+  },
+  "13006": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "13007": {
+    "name": "Fishing Mountain",
+    "music": "BGM0005"
+  },
+  "13008": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13009": {
+    "name": "White Tiger Hall",
+    "music": "BGM0005"
+  },
+  "13010": {
+    "name": "Iron Dino Hall",
+    "music": "BGM0005"
+  },
+  "13011": {
+    "name": "Phenix Hall",
+    "music": "BGM0005"
+  },
+  "13012": {
+    "name": "Black Dragon Hall",
+    "music": "BGM0005"
+  },
+  "13013": {
+    "name": "Kirin Hall",
+    "music": "BGM0005"
+  },
+  "13014": {
+    "name": "Western Forest",
+    "music": "BGM0008"
+  },
+  "13015": {
+    "name": "Deep Forest",
+    "music": "BGM0008"
+  },
+  "13016": {
+    "name": "Bypath",
+    "music": "BGM0008"
+  },
+  "13017": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "13018": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "13019": {
+    "name": "Western Woodland",
+    "music": "BGM0008"
+  },
+  "13020": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "13021": {
+    "name": "Civillian's House",
+    "music": "BGM0008"
+  },
+  "13022": {
+    "name": "Great Wall Passage",
+    "music": "BGM0005"
+  },
+  "13023": {
+    "name": "Typhoon Shelter",
+    "music": "BGM0008"
+  },
+  "13024": {
+    "name": "For Testing",
+    "music": "BGM0010"
+  },
+  "13025": {
+    "name": "For Testing",
+    "music": "BGM0023"
+  },
+  "13026": {
+    "name": "For Testing",
+    "music": "BGM0026"
+  },
+  "13027": {
+    "name": "For Testing",
+    "music": "BGM0026"
+  },
+  "13028": {
+    "name": "For Testing",
+    "music": "BGM0026"
+  },
+  "13029": {
+    "name": "For Testing",
+    "music": "BGM0026"
+  },
+  "13030": {
+    "name": "For Testing",
+    "music": "BGM0026"
+  },
+  "13031": {
+    "name": "Dragon Hall",
+    "music": "BGM0005"
+  },
+  "13050": {
+    "name": "Training Island",
+    "music": "BGM0005"
+  },
+  "13051": {
+    "name": "Beach Area",
+    "music": "BGM0005"
+  },
+  "13052": {
+    "name": "Cave Area 1",
+    "music": "BGM0026"
+  },
+  "13053": {
+    "name": "Cave Area 2",
+    "music": "BGM0005"
+  },
+  "13054": {
+    "name": "Ocean Area 1",
+    "music": "BGM0005"
+  },
+  "13055": {
+    "name": "Ocean Area 2",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "13056": {
+    "name": "Forest Area 1",
+    "music": "BGM0005"
+  },
+  "13057": {
+    "name": "Forest Area 2",
+    "music": "BGM0005"
+  },
+  "13059": {
+    "name": "Practice Area",
+    "music": "BGM0005"
+  },
+  "13100": {
+    "name": "Persia",
+    "music": "BGM0038"
+  },
+  "13101": {
+    "name": "Palace Hall",
+    "music": "BGM0038"
+  },
+  "13102": {
+    "name": "Fete Hall",
+    "music": "BGM0038"
+  },
+  "13103": {
+    "name": "Inn",
+    "music": "BGM0038"
+  },
+  "13104": {
+    "name": "Equipment Shop",
+    "music": "BGM0038"
+  },
+  "13105": {
+    "name": "Civillian's House",
+    "music": "BGM0038"
+  },
+  "13106": {
+    "name": "Civillian's House",
+    "music": "BGM0038"
+  },
+  "13107": {
+    "name": "Civillian's House",
+    "music": "BGM0038"
+  },
+  "13108": {
+    "name": "Civillian's House",
+    "music": "BGM0038"
+  },
+  "13109": {
+    "name": "Civillian's House",
+    "music": "BGM0038"
+  },
+  "13110": {
+    "name": "Ancient Path",
+    "music": "BGM0038"
+  },
+  "13111": {
+    "name": "Mountain Path",
+    "music": "BGM0038"
+  },
+  "13112": {
+    "name": "Sand Valley",
+    "music": "BGM0038"
+  },
+  "13113": {
+    "name": "Cuniculus",
+    "music": "BGM0038"
+  },
+  "13114": {
+    "name": "Water Path",
+    "music": "BGM0005"
+  },
+  "13115": {
+    "name": "Palace",
+    "music": "BGM0038"
+  },
+  "13116": {
+    "name": "Palace",
+    "music": "BGM0038"
+  },
+  "13117": {
+    "name": "Death Dune",
+    "music": "BGM0038"
+  },
+  "13118": {
+    "name": "Deep Of Water Path",
+    "music": "BGM0005"
+  },
+  "13119": {
+    "name": "Dune Path",
+    "music": "BGM0038"
+  },
+  "13120": {
+    "name": "Snake Den",
+    "music": "BGM0005"
+  },
+  "13121": {
+    "name": "Dungeon Of Palace",
+    "music": "BGM0005"
+  },
+  "13122": {
+    "name": "Dungeon Of Palace",
+    "music": "BGM0005"
+  },
+  "13123": {
+    "name": "Dungeon Of Palace",
+    "music": "BGM0005"
+  },
+  "13124": {
+    "name": "Dungeon Of Palace",
+    "music": "BGM0005"
+  },
+  "13125": {
+    "name": "Palace Interior",
+    "music": "BGM0005"
+  },
+  "13126": {
+    "name": "Royal Palace",
+    "music": "BGM0005"
+  },
+  "13150": {
+    "name": "Cornwall",
+    "music": "BGM0001"
+  },
+  "13151": {
+    "name": "Capital Hall",
+    "music": "BGM0039"
+  },
+  "13152": {
+    "name": "Capital Shrine",
+    "music": "BGM0039"
+  },
+  "13153": {
+    "name": "Inn",
+    "music": "BGM0001"
+  },
+  "13154": {
+    "name": "2F, Inn",
+    "music": "BGM0001"
+  },
+  "13155": {
+    "name": "Stuff Shop",
+    "music": "BGM0001"
+  },
+  "13156": {
+    "name": "The Villageleader's",
+    "music": "BGM0001"
+  },
+  "13157": {
+    "name": "Warehouse",
+    "music": "BGM0001"
+  },
+  "13158": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13159": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13160": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13161": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13162": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13163": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13164": {
+    "name": "Fog Jungle",
+    "music": "BGM0005"
+  },
+  "13165": {
+    "name": "Fog Jungle",
+    "music": "BGM0005"
+  },
+  "13166": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13167": {
+    "name": "Cornwall Peak",
+    "music": "BGM0017"
+  },
+  "13168": {
+    "name": "Cellar",
+    "music": "BGM0005"
+  },
+  "13169": {
+    "name": "Cellar",
+    "music": "BGM0005"
+  },
+  "13170": {
+    "name": "Fog Jungle",
+    "music": "BGM0005"
+  },
+  "13171": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13172": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13173": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13174": {
+    "name": "Fog Jungle",
+    "music": "BGM0005"
+  },
+  "13175": {
+    "name": "Cornwall Forest",
+    "music": "BGM0005"
+  },
+  "13176": {
+    "name": "Cornwall Plain",
+    "music": "BGM0005"
+  },
+  "13177": {
+    "name": "Megalith Attack Area",
+    "music": "BGM0005"
+  },
+  "13178": {
+    "name": "Mysterious Forest",
+    "music": "BGM0005"
+  },
+  "13179": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "13180": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "13181": {
+    "name": "Cavern",
+    "music": "BGM0005"
+  },
+  "13182": {
+    "name": "Abyss Cavern",
+    "music": "BGM0005"
+  },
+  "13183": {
+    "name": "Fog Jungle",
+    "music": "BGM0005"
+  },
+  "13184": {
+    "name": "Enigmatic Cave",
+    "music": "BGM0005"
+  },
+  "13185": {
+    "name": "Interior Cave",
+    "music": "BGM0005"
+  },
+  "13200": {
+    "name": "Rome",
+    "music": "BGM0039"
+  },
+  "13201": {
+    "name": "God Temple",
+    "music": "BGM0012"
+  },
+  "13202": {
+    "name": "Senate",
+    "music": "BGM0039"
+  },
+  "13203": {
+    "name": "Colosseum",
+    "music": "BGM0039"
+  },
+  "13204": {
+    "name": "Inn",
+    "music": "BGM0039"
+  },
+  "13205": {
+    "name": "2F, Inn",
+    "music": "BGM0039"
+  },
+  "13206": {
+    "name": "Stuff Shop",
+    "music": "BGM0039"
+  },
+  "13207": {
+    "name": "Public Bathhouse",
+    "music": "BGM0037",
+    "effect": 3
+  },
+  "13208": {
+    "name": "Ghost Hall",
+    "music": "BGM0039"
+  },
+  "13209": {
+    "name": "Ghost Inner Hall",
+    "music": "BGM0039"
+  },
+  "13210": {
+    "name": "Civillian's House",
+    "music": "BGM0039"
+  },
+  "13211": {
+    "name": "Civillian's House",
+    "music": "BGM0039"
+  },
+  "13212": {
+    "name": "Civillian's House",
+    "music": "BGM0039"
+  },
+  "13213": {
+    "name": "Civillian's House",
+    "music": "BGM0039"
+  },
+  "13214": {
+    "name": "Civillian's House",
+    "music": "BGM0039"
+  },
+  "13215": {
+    "name": "Civillian's House",
+    "music": "BGM0039"
+  },
+  "13216": {
+    "name": "Colosseum Path",
+    "music": "BGM0005"
+  },
+  "13217": {
+    "name": "Colosseum Path",
+    "music": "BGM0005"
+  },
+  "13218": {
+    "name": "Colosseum Path",
+    "music": "BGM0005"
+  },
+  "13219": {
+    "name": "Hunting Ground",
+    "music": "BGM0005"
+  },
+  "13220": {
+    "name": "Dungeon",
+    "music": "BGM0005"
+  },
+  "13221": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13222": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13223": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13224": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13225": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13226": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13227": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13228": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13229": {
+    "name": "Maze In Cave",
+    "music": "BGM0005"
+  },
+  "13230": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "13231": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "13232": {
+    "name": "Jungle",
+    "music": "BGM0005"
+  },
+  "13233": {
+    "name": "Hilltop",
+    "music": "BGM0017"
+  },
+  "13234": {
+    "name": "Cellar",
+    "music": "BGM0005"
+  },
+  "13235": {
+    "name": "Sewer",
+    "music": "BGM0005"
+  },
+  "13236": {
+    "name": "Sewer",
+    "music": "BGM0005"
+  },
+  "13237": {
+    "name": "Sewer",
+    "music": "BGM0005"
+  },
+  "13238": {
+    "name": "Sewer",
+    "music": "BGM0005"
+  },
+  "13239": {
+    "name": "Army Jail",
+    "music": "BGM0005"
+  },
+  "13240": {
+    "name": "Official Basement",
+    "music": "BGM0005"
+  },
+  "13241": {
+    "name": "Apenni Forest",
+    "music": "BGM0005"
+  },
+  "13250": {
+    "name": "Domremy",
+    "music": "BGM0001"
+  },
+  "13251": {
+    "name": "Inn",
+    "music": "BGM0001"
+  },
+  "13252": {
+    "name": "Stuff Shop",
+    "music": "BGM0001"
+  },
+  "13253": {
+    "name": "Church",
+    "music": "BGM0001"
+  },
+  "13254": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13255": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13256": {
+    "name": "House, 2F",
+    "music": "BGM0001"
+  },
+  "13257": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13258": {
+    "name": "Civillian's House",
+    "music": "BGM0001"
+  },
+  "13259": {
+    "name": "Avignon Jungle",
+    "music": "BGM0005"
+  },
+  "13260": {
+    "name": "Gorge",
+    "music": "BGM0005"
+  },
+  "13261": {
+    "name": "Lost Jun",
+    "music": "BGM0005"
+  },
+  "13262": {
+    "name": "Gorge",
+    "music": "BGM0005"
+  },
+  "13263": {
+    "name": "Bordeaux Jungle",
+    "music": "BGM0005"
+  },
+  "13264": {
+    "name": "Lost Jun",
+    "music": "BGM0005",
+    "effect": 3
+  },
+  "13265": {
+    "name": "Lost Jun",
+    "music": "BGM0005"
+  },
+  "13266": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13267": {
+    "name": "Submarine Maze",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "13268": {
+    "name": "Submarine Maze",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "13269": {
+    "name": "Submarine Maze",
+    "music": "BGM0005",
+    "effect": 6
+  },
+  "13270": {
+    "name": "Liams' Land",
+    "music": "BGM0005"
+  },
+  "13271": {
+    "name": "Dungeon",
+    "music": "BGM0005"
+  },
+  "13272": {
+    "name": "Dorjas Jungle",
+    "music": "BGM0005"
+  },
+  "13273": {
+    "name": "Evil Elf Cave",
+    "music": "BGM0005"
+  },
+  "13274": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13275": {
+    "name": "Cave",
+    "music": "BGM0005"
+  },
+  "13276": {
+    "name": "Sunset Summit",
+    "music": "BGM0017"
+  },
+  "13300": {
+    "name": "Thai Secret Path",
+    "music": "BGM0005"
+  },
+  "13301": {
+    "name": "Secret Jungle",
+    "music": "BGM0005"
+  },
+  "13400": {
+    "name": "Pettora's House",
+    "music": "BGM0023"
+  },
+  "13401": {
+    "name": "Device Path",
+    "music": "BGM0005"
+  },
+  "13402": {
+    "name": "Device Path",
+    "music": "BGM0005"
+  },
+  "13403": {
+    "name": "Device Path",
+    "music": "BGM0005"
+  },
+  "13404": {
+    "name": "Device Path",
+    "music": "BGM0005"
+  },
+  "13405": {
+    "name": "Device Path",
+    "music": "BGM0005"
+  },
+  "13406": {
+    "name": "Device Path",
+    "music": "BGM0005"
+  },
+  "13450": {
+    "name": "Rhode Island",
+    "music": "BGM0037"
+  },
+  "13451": {
+    "name": "Civillian's House",
+    "music": "BGM0037"
+  },
+  "13452": {
+    "name": "Civillian's House",
+    "music": "BGM0037"
+  },
+  "13453": {
+    "name": "The Villageleader's",
+    "music": "BGM0037"
+  },
+  "13454": {
+    "name": "Weaponry",
+    "music": "BGM0037"
+  },
+  "13455": {
+    "name": "1F, Inn",
+    "music": "BGM0037"
+  },
+  "13456": {
+    "name": "2F, Inn",
+    "music": "BGM0037"
+  },
+  "13457": {
+    "name": "Grocery",
+    "music": "BGM0037"
+  },
+  "13458": {
+    "name": "Mountains Of Rhodes",
+    "music": "BGM0017"
+  },
+  "13500": {
+    "name": "Zeus' Challenge 3",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "13501": {
+    "name": "Zeus' Final Stage",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "13502": {
+    "name": "Zeus' Challenge 1",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "13503": {
+    "name": "Zeus' Challenge 2",
+    "music": "BGM0007",
+    "control": 34
+  },
+  "15005": {
+    "name": "Const. Corridor",
+    "music": "BGM0017",
+    "control": 35
+  },
+  "30000": {
+    "name": "Slame's Residence",
+    "music": "BGM0026",
+    "control": 70,
+    "instance": {
+      "max_players": 8,
+      "mark_id": 40001,
+      "level_requirement": 30,
+      "time_limit": 15,
+      "x": 835,
+      "y": 1396
+    }
+  },
+  "30002": {
+    "name": "Ghostdom",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 10,
+      "mark_id": 40005,
+      "level_requirement": 40,
+      "time_limit": 30,
+      "x": 1963,
+      "y": 1358
+    }
+  },
+  "30004": {
+    "name": "Dark Priest Den",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40009,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 3058,
+      "y": 848
+    }
+  },
+  "30006": {
+    "name": "Surppress Thief",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 15,
+      "mark_id": 40011,
+      "level_requirement": 70,
+      "time_limit": 30,
+      "x": 2893,
+      "y": 2360
+    }
+  },
+  "30007": {
+    "name": "Yiar And Jiar",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 17,
+      "mark_id": 40013,
+      "level_requirement": 90,
+      "time_limit": 40,
+      "x": 2822,
+      "y": 2315
+    }
+  },
+  "30008": {
+    "name": "Alexandria",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 8,
+      "mark_id": 40015,
+      "level_requirement": 60,
+      "time_limit": 20,
+      "x": 3800,
+      "y": 1500
+    }
+  },
+  "30009": {
+    "name": "Eighteen Coppermen",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 10,
+      "mark_id": 40017,
+      "level_requirement": 80,
+      "time_limit": 10,
+      "x": 1170,
+      "y": 1130
+    }
+  },
+  "30010": {
+    "name": "Instinct Temple",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 15,
+      "mark_id": 40019,
+      "level_requirement": 90,
+      "time_limit": 35,
+      "x": 1672,
+      "y": 1865
+    }
+  },
+  "30011": {
+    "name": "Jurassic Pasture",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40021,
+      "level_requirement": 60,
+      "time_limit": 15,
+      "x": 4148,
+      "y": 1814
+    }
+  },
+  "30012": {
+    "name": "Yoyo Family",
+    "music": "BGM0004",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40023,
+      "level_requirement": 10,
+      "time_limit": 15,
+      "x": 2128,
+      "y": 1872
+    }
+  },
+  "30013": {
+    "name": "Eight Warriors",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40025,
+      "level_requirement": 100,
+      "time_limit": 25,
+      "x": 4022,
+      "y": 815
+    }
+  },
+  "30014": {
+    "name": "Save Bluestarnese",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40027,
+      "level_requirement": 90,
+      "time_limit": 15,
+      "x": 4026,
+      "y": 1910
+    }
+  },
+  "30015": {
+    "name": "Sea Animals",
+    "music": "BGM0005",
+    "control": 70,
+    "effect": 6,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40029,
+      "level_requirement": 50,
+      "time_limit": 15,
+      "x": 879,
+      "y": 1438
+    }
+  },
+  "30016": {
+    "name": "12 Mascots",
+    "music": "BGM0019",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40033,
+      "level_requirement": 20,
+      "time_limit": 15,
+      "x": 705,
+      "y": 1187
+    }
+  },
+  "30018": {
+    "name": "Mali's Attack",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 8,
+      "mark_id": 40035,
+      "level_requirement": 40,
+      "time_limit": 15,
+      "x": 2893,
+      "y": 699
+    }
+  },
+  "30019": {
+    "name": "Egypt Fete Palace",
+    "music": "BGM0026",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "guild_restricted": 1,
+      "mark_id": 40037,
+      "level_requirement": 50,
+      "time_limit": 25,
+      "x": 3600,
+      "y": 1760
+    }
+  },
+  "30020": {
+    "name": "Fiery Challenge",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40039,
+      "level_requirement": 80,
+      "time_limit": 20,
+      "x": 2590,
+      "y": 2451
+    }
+  },
+  "30021": {
+    "name": "Mahabrahman Challeng",
+    "music": "BGM0038",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40043,
+      "level_requirement": 110,
+      "time_limit": 60,
+      "x": 4700,
+      "y": 1650
+    }
+  },
+  "30023": {
+    "name": "Sealing Space",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40045,
+      "level_requirement": 60,
+      "time_limit": 45,
+      "x": 3016,
+      "y": 2392
+    }
+  },
+  "30024": {
+    "name": "Emp's Conspiracy",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40047,
+      "level_requirement": 60,
+      "time_limit": 40,
+      "x": 4323,
+      "y": 1678
+    }
+  },
+  "30025": {
+    "name": "Sealed Space",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 16,
+      "mark_id": 40049,
+      "level_requirement": 120,
+      "time_limit": 40,
+      "x": 4110,
+      "y": 2000
+    }
+  },
+  "30027": {
+    "name": "Nantianmen Grassland",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40053,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 3649,
+      "y": 1309
+    }
+  },
+  "30028": {
+    "name": "Plague Array",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40055,
+      "level_requirement": 50,
+      "time_limit": 40,
+      "x": 2897,
+      "y": 1326
+    }
+  },
+  "30029": {
+    "name": "Polar Region",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 14,
+      "mark_id": 40057,
+      "level_requirement": 50,
+      "time_limit": 40,
+      "x": 3920,
+      "y": 1909
+    }
+  },
+  "30030": {
+    "name": "Forbidden Land",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40059,
+      "level_requirement": 50,
+      "time_limit": 40,
+      "x": 1959,
+      "y": 2103
+    }
+  },
+  "30031": {
+    "name": "Christmas Prairie",
+    "music": "BGM0005",
+    "control": 70,
+    "effect": 2,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40061,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 1196,
+      "y": 1279
+    }
+  },
+  "30032": {
+    "name": "Holy Dragon Space",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40063,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 2223,
+      "y": 558
+    }
+  },
+  "30033": {
+    "name": "Chang'an City Border",
+    "music": "BGM0031",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40065,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 3008,
+      "y": 373
+    }
+  },
+  "30034": {
+    "name": "Roman Dungeon",
+    "music": "BGM0026",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40067,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 3911,
+      "y": 1935
+    }
+  },
+  "30035": {
+    "name": "Ancient Tomb",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40069,
+      "level_requirement": 50,
+      "time_limit": 40,
+      "x": 1499,
+      "y": 1842
+    }
+  },
+  "30036": {
+    "name": "Evil Space",
+    "music": "BGM0030",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40071,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 5251,
+      "y": 1440
+    }
+  },
+  "30037": {
+    "name": "South Tianmen Border",
+    "music": "BGM0012",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40075,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 956,
+      "y": 1286
+    }
+  },
+  "30038": {
+    "name": "Haters Hq",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 6,
+      "mark_id": 40073,
+      "level_requirement": 50,
+      "time_limit": 30,
+      "x": 2035,
+      "y": 670
+    }
+  },
+  "30039": {
+    "name": "Hidden Weaponarsenal",
+    "music": "BGM0005",
+    "control": 70,
+    "instance": {
+      "max_players": 12,
+      "mark_id": 40077,
+      "level_requirement": 130,
+      "time_limit": 40,
+      "x": 3271,
+      "y": 1607
+    }
+  },
+  "58000": {
+    "name": "Nautical Map",
+    "music": "BGM0018"
+  },
+  "58001": {
+    "name": "Nautical Map",
+    "music": "BGM0018"
+  },
+  "58002": {
+    "name": "Mediterranean",
+    "music": "BGM0018"
+  },
+  "59010": {
+    "name": "Cavern",
+    "music": "BGM0014"
+  },
+  "59011": {
+    "name": "There Are Caves",
+    "music": "BGM0014"
+  },
+  "59012": {
+    "name": "Ice House",
+    "music": "BGM0014"
+  },
+  "59013": {
+    "name": "Street View",
+    "music": "BGM0014"
+  },
+  "59014": {
+    "name": "Bush Woods",
+    "music": "BGM0014"
+  },
+  "59015": {
+    "name": "Underground Magma",
+    "music": "BGM0014"
+  },
+  "59016": {
+    "name": "Terrestrial Magma",
+    "music": "BGM0014"
+  },
+  "59017": {
+    "name": "Cypress Main Road",
+    "music": "BGM0014"
+  },
+  "59018": {
+    "name": "Cypress View",
+    "music": "BGM0014"
+  },
+  "59019": {
+    "name": "New Cypress View",
+    "music": "BGM0014"
+  },
+  "59020": {
+    "name": "Alpine",
+    "music": "BGM0014"
+  },
+  "59021": {
+    "name": "The Moon",
+    "music": "BGM0014"
+  },
+  "59022": {
+    "name": "The Mars",
+    "music": "BGM0014"
+  },
+  "59023": {
+    "name": "Great Wall",
+    "music": "BGM0014"
+  },
+  "59024": {
+    "name": "Suspended Water",
+    "music": "BGM0014"
+  },
+  "59025": {
+    "name": "Floating Cave",
+    "music": "BGM0014"
+  },
+  "59026": {
+    "name": "Cabin Interior",
+    "music": "BGM0014"
+  },
+  "59027": {
+    "name": "Undersea View",
+    "music": "BGM0014"
+  },
+  "59028": {
+    "name": "Space Capsule Room",
+    "music": "BGM0014"
+  },
+  "59029": {
+    "name": "Sky Garden Indoor",
+    "music": "BGM0014"
+  },
+  "59030": {
+    "name": "Highland",
+    "music": "BGM0014"
+  },
+  "59031": {
+    "name": "Intestinal Maze",
+    "music": "BGM0014"
+  },
+  "59032": {
+    "name": "White Brick Maze",
+    "music": "BGM0014"
+  },
+  "59040": {
+    "name": "Mine",
+    "music": "BGM0014"
+  },
+  "59050": {
+    "name": "Beach",
+    "music": "BGM0014"
+  },
+  "59070": {
+    "name": "Desert",
+    "music": "BGM0014"
+  },
+  "59080": {
+    "name": "Oasis Grassland",
+    "music": "BGM0014"
+  },
+  "59081": {
+    "name": "Desert Grassland",
+    "music": "BGM0014"
+  },
+  "59082": {
+    "name": "Hillfoot Grassland",
+    "music": "BGM0014"
+  },
+  "59090": {
+    "name": "Jungle",
+    "music": "BGM0014"
+  },
+  "59091": {
+    "name": "Lakeside Jungle",
+    "music": "BGM0014"
+  },
+  "59100": {
+    "name": "Snow View",
+    "music": "BGM0014"
+  },
+  "59110": {
+    "name": "Gorge",
+    "music": "BGM0014"
+  },
+  "59120": {
+    "name": "Cellar",
+    "music": "BGM0014"
+  },
+  "59130": {
+    "name": "Welling Street",
+    "music": "BGM0014"
+  },
+  "59131": {
+    "name": "Holy Village Street",
+    "music": "BGM0014"
+  },
+  "59132": {
+    "name": "Welling Street",
+    "music": "BGM0014"
+  },
+  "59133": {
+    "name": "Holy Village Street",
+    "music": "BGM0014"
+  },
+  "59139": {
+    "name": "Room Scape",
+    "music": "BGM0014"
+  },
+  "59140": {
+    "name": "Room Scape",
+    "music": "BGM0014"
+  },
+  "59141": {
+    "name": "Ship Deck",
+    "music": "BGM0014"
+  },
+  "00000": {
+    "name": "North Island",
+    "music": "BGM0010"
+  },
+  "00001": {
+    "name": "North Island",
+    "music": "BGM0027"
+  },
+  "00002": {
+    "name": "South Island",
+    "music": "BGM0027"
+  },
+  "00003": {
+    "name": "South Island",
+    "music": "BGM0027"
+  },
+  "60004": {
+    "name": "Revival Isle",
+    "music": "BGM0010"
+  },
+  "60005": {
+    "name": "Mayan Forest",
+    "music": "BGM0023"
+  },
+  "60006": {
+    "name": "Oslya",
+    "music": "BGM0010"
+  },
+  "60007": {
+    "name": "Universal",
+    "music": "BGM0024"
+  },
+  "60008": {
+    "name": "Large Island",
+    "music": "BGM0024"
+  },
+  "60009": {
+    "name": "Small Island",
+    "music": "BGM0024"
+  },
+  "60010": {
+    "name": "China",
+    "music": "BGM0010"
+  },
+  "60011": {
+    "name": "Koyota",
+    "music": "BGM0010"
+  },
+  "60012": {
+    "name": " ",
+    "music": "BGM0024"
+  },
+  "60013": {
+    "name": "Korea",
+    "music": "BGM0010"
+  },
+  "60014": {
+    "name": "Egypt",
+    "music": "BGM0023"
+  },
+  "60015": {
+    "name": "Inca",
+    "music": "BGM0023"
+  }
+}
