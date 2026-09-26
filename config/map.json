@@ -1,0 +1,23 @@
+{
+	"0": {
+		"background": "background-10.bmg/10001.jpg",
+		"name": "Cruise Deck",
+		"soundtrack": "soundtracks/bgm0007.ogg",
+		"tiles": {
+			"1": {
+				"asset": "tiles-10.bmg/10001077.bmp",
+				"frames": 1.0,
+				"ground": false,
+				"x": -982.0,
+				"y": 283.0
+			},
+			"2": {
+				"asset": "tiles-10.bmg/10001076.bmp",
+				"frames": 1.0,
+				"ground": false,
+				"x": -934.0,
+				"y": 265.0
+			}
+		}
+	}
+}
