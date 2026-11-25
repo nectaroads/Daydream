@@ -12,7 +12,7 @@ Daydream is a fan-made take on **Wonderland Online**, with a new Godot client. E
 
 ## Download and play
 
-Open this README on the branch for your realm. The download links follow the branch you're viewing. Pick the file for your system and put it in any folder you like. A folder named `Daydream` does the job.
+Open this README on the branch for your realm. The download links follow the branch you're viewing. Pick the file for your system and put it in a folder you can write to. A folder named `Daydream` does the job.
 
 | System | Download | Open it |
 | --- | --- | --- |
@@ -26,7 +26,9 @@ One manual download is enough. On your first **Start**, Daydream downloads the g
 
 Every time you press **Start**, the launcher checks the selected branch and installs what has changed or is missing. It reuses files that are already up to date, so later updates are usually smaller. If something seems off, **Update** runs a full file check and repairs anything that needs replacing.
 
-If you have an older launcher from when Daydream shipped with a separate game pack, download the current launcher once. It can reuse the game data you already installed.
+Wonderland keeps its files beside the launcher, while Miracle keeps its own files in the `beta/` subfolder. Daydream removes superseded game builds after a successful update. Performance reports are saved beside the launcher. On macOS these paths are relative to the folder containing the app.
+
+If your current launcher installed the game in AppData, download the new launcher once and run it from your Daydream folder. It can reuse verified files from the old installation when moving a realm to the new layout.
 
 ## Found something weird?
 
