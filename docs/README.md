@@ -26,7 +26,7 @@ One manual download is enough. On your first **Start**, Daydream downloads the g
 
 Every time you press **Start**, the launcher checks the selected branch and installs what has changed or is missing. It reuses files that are already up to date, so later updates are usually smaller. If something seems off, **Update** runs a full file check and repairs anything that needs replacing.
 
-Wonderland keeps its files beside the launcher, while Miracle keeps its own files in the `beta/` subfolder. Daydream removes superseded game builds after a successful update. Performance reports are saved beside the launcher. On macOS these paths are relative to the folder containing the app.
+Wonderland keeps its files beside the launcher, while Miracle keeps its game data in `beta/`. When Miracle needs a new build, Daydream closes, replaces the executable in the same location, and reopens. It removes old Beta runtime copies once they're closed. Performance reports are saved beside the executable, or beside the app on macOS.
 
 If your current launcher installed the game in AppData, download the new launcher once and run it from your Daydream folder. It can reuse verified files from the old installation when moving a realm to the new layout.
 
